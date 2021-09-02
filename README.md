@@ -11,7 +11,7 @@ http://www.seoulmetro.co.kr/kr/delayProofList.do?menuIdx=543
 
 * 현재 간편지연증명서의 크롤링 가능 여부가 확인되지 않아, 확인 후 작업 내용을 올릴 예정.
 * robots.txt에서는 가능하다고 적혀있지만, 홈페이지 내부에 복제가 안된다는 내용 확인.
-<hr>
+
 ## 데이터 프레임 만들기
 ### Subway_moving_dataframe
 * 승하차 인원을 전부 합한 양 = 이동량이라고 정의.
